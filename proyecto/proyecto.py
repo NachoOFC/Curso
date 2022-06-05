@@ -1,3 +1,5 @@
+from os import system
+system ("cls")
 import random
 print("aqui hare el curso de github")
 print("Hola miamor")
